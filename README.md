@@ -1,3 +1,3 @@
 # COVID Data Analysis Project
 
-In this project I use SQL scripts to explore data about COVID-19. 
+In this project I use SQL scripts to explore COVID-19 data. 
